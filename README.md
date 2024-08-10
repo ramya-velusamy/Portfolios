@@ -2,10 +2,10 @@
 This repository showcases various projects related to Microsoft Azure. The portfolio includes working modules on key Azure services, including Virtual Machines, Storage Accounts, and Static Web Apps. Below is a detailed description of each project and the steps involved.
 
 ## Table of Contents
-- [Creation of Virtual Machine](#creation of virtual machine)
-- [Deploying Git Repository in VM](#deploying git repository in vm)
-- [Creation of Storage Account (Blob Creation)](#creation of storage account (blob creation))
-- [Creation of Static Web Apps to Deploy Git Repository](#creation of static web apps to deploy git repository)
+- [Creation of Virtual Machine](# creation of virtual machine)
+- [Deploying Git Repository in VM](# deploying git repository in vm)
+- [Creation of Storage Account (Blob Creation)](# creation of storage account (blob creation))
+- [Creation of Static Web Apps to Deploy Git Repository](# creation of static web apps to deploy git repository)
 ## 1. Creation of Virtual Machine
 This project demonstrates the creation of a Virtual Machine (VM) on Azure. The VM is configured with specific parameters such as size, OS, and networking settings. It is a critical step for deploying applications and managing services in a cloud environment.
 
