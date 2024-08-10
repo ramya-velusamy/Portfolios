@@ -10,11 +10,11 @@ This repository showcases various projects related to Microsoft Azure. The portf
 This project demonstrates the creation of a Virtual Machine (VM) on Azure. The VM is configured with specific parameters such as size, OS, and networking settings. It is a critical step for deploying applications and managing services in a cloud environment.
 
 ## Steps:
-Create a new resource group.
-Navigate to the "Virtual Machines" section in Azure.
-Set up a VM with the desired OS and configurations.
-Configure networking and storage options.
-Deploy the VM and verify its status.
+- [Create a new resource group.]
+- [Navigate to the "Virtual Machines" section in Azure.]
+- [Set up a VM with the desired OS and configurations.]
+- [Configure networking and storage options.]
+- [Deploy the VM and verify its status.]
 ## 2. Deploying Git Repository in VM
 In this module, a Git repository is deployed within the Azure VM. This allows the repository to be managed directly from the VM, providing flexibility for development and testing.
 
