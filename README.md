@@ -4,10 +4,10 @@ This repository showcases various projects related to Microsoft Azure. The portf
 
 ## Table of Contents
 
-1. [Creation of Virtual Machine](#creation-of-virtual-machine)
-2. [Deploying Git Repository in VM](#deploying-git-repository-in-vm)
-3. [Creation of Storage Account (Blob Creation)](#creation-of-storage-account-blob-creation)
-4. [Creation of Static Web Apps to Deploy Git Repository](#creation-of-static-web-apps-to-deploy-git-repository)
+1. [Creation of Virtual Machine](#1-creation-of-virtual-machine)
+2. [Deploying Git Repository in VM](#2-deploying-git-repository-in-vm)
+3. [Creation of Storage Account (Blob Creation)](#3-creation-of-storage-account-blob-creation)
+4. [Creation of Static Web Apps to Deploy Git Repository](#4-creation-of-static-web-apps-to-deploy-git-repository)
 
 ## 1. Creation of Virtual Machine
 
