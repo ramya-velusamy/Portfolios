@@ -2,7 +2,7 @@
 This repository showcases various projects related to Microsoft Azure. The portfolio includes working modules on key Azure services, including Virtual Machines, Storage Accounts, and Static Web Apps. Below is a detailed description of each project and the steps involved.
 
 ## Table of Contents
--- Creation of Virtual Machine
+- [Creation of Virtual Machine](#Creation of Virtual Machine)
 -- Deploying Git Repository in VM
 -- Creation of Storage Account (Blob Creation)
 -- Creation of Static Web Apps to Deploy Git Repository
