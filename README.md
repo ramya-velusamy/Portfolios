@@ -57,6 +57,11 @@ This module demonstrates the deployment of a Git repository using Azure Static W
 
 This portfolio highlights practical applications of Microsoft Azure's cloud services. Each module is designed to give hands-on experience with the essential tools and processes needed to deploy, manage, and scale applications in the cloud.
 
+## Contact
+
+- **Email:** [9750ramya@gmail.com](mailto:9750ramya@gmail.com)
+- **LinkedIn:** [ramya-v](https://www.linkedin.com/in/ramya-v)
+
 ## License
 
 This repository is licensed under the MIT License. See the `LICENSE` file for more information.
