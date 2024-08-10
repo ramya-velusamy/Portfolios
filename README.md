@@ -3,9 +3,9 @@ This repository showcases various projects related to Microsoft Azure. The portf
 
 ## Table of Contents
 - [Creation of Virtual Machine](#Creation of Virtual Machine)
--- Deploying Git Repository in VM
--- Creation of Storage Account (Blob Creation)
--- Creation of Static Web Apps to Deploy Git Repository
+- [Deploying Git Repository in VM](#Deploying Git Repository in VM)
+- [Creation of Storage Account (Blob Creation)](#Creation of Storage Account (Blob Creation))
+- [Creation of Static Web Apps to Deploy Git Repository](#Creation of Static Web Apps to Deploy Git Repository)
 ## 1. Creation of Virtual Machine
 This project demonstrates the creation of a Virtual Machine (VM) on Azure. The VM is configured with specific parameters such as size, OS, and networking settings. It is a critical step for deploying applications and managing services in a cloud environment.
 
